@@ -69,9 +69,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/graphprotocol/everest/ui"
+    "url": "https://github.com/clrfund/registry/ui"
   },
   "bugs": {
-    "url": "https://github.com/graphprotocol/everest/ui"
+    "url": "https://github.com/clrfund/registry/ui"
   }
 }

@@ -74,18 +74,18 @@ const config = {
         name: 'MockDAI',
         // Note the DID address is the same for mainnet, ropsten, rinkeby, kovan and goerli
         ethereumDIDRegistryAddress: '0xdca7ef03e98e0dc2b855be647c39abe984fcf21b',
-        ropstenOwner: '0x93606b27cB5e4c780883eC4F6b7Bed5f6572d1dd', // Daves metamask account 0
+        ropstenOwner: '0x1dE009cE130d6bf200e6DEb062F02C8912673CD3', // Daves metamask account 0
         chainID: 3,
         daiAddress: '0x82a351cdfb726dafc8624d8bd6b0bc98d34ffec1' // Set to null if desired to deploy new dai
     },
     mainnetParams: {
         daiAddress: '0x6B175474E89094C44Da98b954EedeAC495271d0F',
         ethereumDIDRegistryAddress: '0xdCa7EF03e98e0DC2B855bE647C39ABe984fcF21B',
-        owner: '0x93606b27cB5e4c780883eC4F6b7Bed5f6572d1dd' // Daves metamask account 0
+        owner: '0x1dE009cE130d6bf200e6DEb062F02C8912673CD3' // Daves metamask account 0
     },
     // Used for deploying and interacting on testnets
     metamaskAddresses: {
-        zero: '0x93606b27cB5e4c780883eC4F6b7Bed5f6572d1dd',
+        zero: '0x1dE009cE130d6bf200e6DEb062F02C8912673CD3',
         one: '0x7F11E5B7Fe8C04c1E4Ce0dD98aC5c922ECcfA4ed',
         two: '0x140b9b9756cE3dE8c8fD296FC9D3E7B3AAa1Cb16',
         three: '0x14B98b26D82421a27608B21BaF6BdEfc181DE546',

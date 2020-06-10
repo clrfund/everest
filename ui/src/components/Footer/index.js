@@ -57,7 +57,7 @@ const Footer = ({ location, ...props }) => {
         }}
       >
         <a
-          href="https://github.com/graphprotocol/everest"
+          href="https://github.com/clrfund/registry"
           target="_blank"
           rel="noopener noreferrer"
           sx={{

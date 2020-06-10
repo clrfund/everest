@@ -4,7 +4,7 @@ const fetch = require('isomorphic-fetch')
 
 const filename = path.join(__dirname, 'public/project/template', 'index.html')
 const SUBGRAPH_NAME =
-  process.env.SUBGRAPH_NAME || 'graphprotocol/everest-ropsten'
+  process.env.SUBGRAPH_NAME || 'auryn-macmillan/clrfund-registry'
 
 let contents
 if (filename) {

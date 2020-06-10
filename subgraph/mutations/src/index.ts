@@ -124,7 +124,7 @@ const sendTransaction = async (tx: Promise<Transaction>) => {
 
 const abis = {
   Context: require('everest-contracts/abis/Context.json').abi,
-  Dai: require('everest-contracts/abis/Dai.json').abi,
+  Dai: require('everest-contracts/abis/dai.json').abi,
   EthereumDIDRegistry: require('everest-contracts/abis/EthereumDIDRegistry.json').abi,
   LibNote: require('everest-contracts/abis/LibNote.json').abi,
   Ownable: require('everest-contracts/abis/Ownable.json').abi,

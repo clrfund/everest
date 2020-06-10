@@ -163,7 +163,7 @@ export default [
         paid by the Reserve Bank. Community members can contribute by adding and
         claiming projects and submitting pull requests to the Everest{' '}
         <a
-          href="https://github.com/graphprotocol/everest"
+          href="https://github.com/clrfund/registry"
           target="_blank"
           rel="noopener noreferrer"
         >

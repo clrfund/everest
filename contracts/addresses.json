@@ -4,9 +4,9 @@
     "ethereumDIDRegistry": "0xdca7ef03e98e0dc2b855be647c39abe984fcf21b",
     "dai": "0x82A351cdFB726DafC8624d8bD6B0bc98d34Ffec1",
     "blockNumber": "7766518",
-    "everest": "0x0AD791CBC700eAecd34f017A6e40E3516daC61fE",
-    "reserveBank": "0x2E845DA9487d0eF075E67Cde34FAc2252799984E",
-    "registry": "0x45650e899F2b25844d5ad7f0020159729341Cf27"
+    "everest": "0x6135D8BcC170bBC89e1851aF9dE6057609F1843C",
+    "reserveBank": "0xea970ce57FA0B824BACf72ddd77603A376B6DFE3",
+    "registry": "0x9CfAeB10c5db36c7c913806076AF1360468110dE"
   },
   "ganache": {
       "everest": "0x9b1f7F645351AF3631a656421eD2e40f2802E6c0",

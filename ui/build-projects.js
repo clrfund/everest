@@ -9,7 +9,7 @@ function bail(msg) {
   throw new Error(msg)
 }
 
-const SUBGRAPH_NAME = process.env.SUBGRAPH_NAME || 'graphprotocol/everest'
+const SUBGRAPH_NAME = process.env.SUBGRAPH_NAME || 'auryn-macmillan/clrfund-registry'
 
 let state = {
   lastUpdatedAt: 0,

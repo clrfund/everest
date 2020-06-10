@@ -1,6 +1,6 @@
 specVersion: 0.0.2
 description: Universally shared projects registry
-repository: https://github.com/graphprotocol/everest
+repository: https://github.com/clrfund/registry
 schema:
   file: ./schema.graphql
 dataSources:

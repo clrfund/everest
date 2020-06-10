@@ -60,7 +60,7 @@ const mnemonic = fs
     .trim()
 
 const wallet = new ethers.Wallet.fromMnemonic(mnemonic)
-const masterAddress = '0x93606b27cB5e4c780883eC4F6b7Bed5f6572d1dd' // The owner of all contracts
+const masterAddress = '0x1dE009cE130d6bf200e6DEb062F02C8912673CD3' // The owner of all contracts
 
 const { network, gasPrice, func } = parseArgs(process.argv.slice(2), {
     string: ['network', 'gasPrice', 'func']
